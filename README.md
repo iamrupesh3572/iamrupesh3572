@@ -29,7 +29,7 @@
 - ☕ Java
 - 🟨 JavaScript
 - 🔷 TypeScript
-- ⚙️ C++
+- 🍃 MongoDB
 - 🗄️ SQL
 - 💎 Solidity
 - 🦀 Rust *(Learning)*
@@ -90,7 +90,6 @@ Secure authentication system with JWT and REST APIs.
 
 ## 🌱 Currently Learning
 
-- 🌱 Spring Boot
 - 🦀 Rust
 - ⛓️ Blockchain Development
 - 🏗️ System Design
