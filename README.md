@@ -20,8 +20,6 @@
 - 🦀 Currently learning **Rust** while expanding my knowledge of decentralized technologies.
 - 📚 Continuously improving my skills by building practical projects and learning modern technologies.
 
----
-
 ## 💻 Tech Stack
 
 ### 🧑‍💻 Programming Languages
@@ -34,8 +32,6 @@
 - 💎 Solidity
 - 🦀 Rust *(Learning)*
 
----
-
 ### 🌐 Frontend
 
 - ⚛️ React.js
@@ -46,22 +42,16 @@
 - 🌐 HTML5
 - 🎨 CSS3
 
----
-
 ### ⚙️ Backend
 
 - 🟢 Node.js
 - 🚂 Express.js
 - 🔗 REST APIs
 
----
-
 ### 🗄️ Databases
 
 - 🍃 MongoDB
 - 🐬 MySQL
-
----
 
 ### 🛠️ Tools
 
@@ -72,8 +62,6 @@
 - 🐧 Linux
 - ▲ Vercel
 - 📦 npm
-
----
 
 ## 🚀 Featured Projects
 
@@ -86,16 +74,12 @@ A full-stack learning platform built with MongoDB, Express.js, React, and Node.j
 ### 🔐 Authentication System
 Secure authentication system with JWT and REST APIs.
 
----
-
 ## 🌱 Currently Learning
 
 - 🦀 Rust
 - ⛓️ Blockchain Development
 - 🏗️ System Design
 - ☁️ Cloud Fundamentals
-
----
 
 ## 🎯 Interests
 
@@ -106,23 +90,11 @@ Secure authentication system with JWT and REST APIs.
 - ⛓️ Blockchain & Web3
 - 📦 Distributed Systems
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrupesh3572&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupesh3572&layout=compact&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rupeshkkumar/
 - 🧩 LeetCode: https://leetcode.com/u/Rupesh-kumar
 - 📧 Email: rupeshkumar86497@gmail.com
-
----
 
 > **"Code with consistency. Learn with curiosity. Build with purpose."** 🚀
 
