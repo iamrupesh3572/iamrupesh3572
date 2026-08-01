@@ -1,7 +1,133 @@
+# Hi 👋, I'm Rupesh Kumar
 
 ![working-from](https://github.com/user-attachments/assets/0efe8830-ec4b-4bf3-b38a-41ef77198647) 
 
 
+
+💻 Java Developer | MERN Stack Developer | Blockchain Enthusiast
+
+🎓 B.Tech Computer Science & Engineering Student
+
+🚀 Passionate about Backend Development, Problem Solving, and Decentralized Technologies.
+
+---
+
+## 👨‍💻 About Me
+
+- ☕ Solving Data Structures & Algorithms using **Java**.
+- 🌐 Building Full Stack Web Applications with the **MERN Stack**.
+- ⛓️ Exploring Blockchain Development using **Ethereum, Solidity, and IPFS**.
+- 🦀 Currently learning **Rust** while expanding my knowledge of decentralized technologies.
+- 📚 Continuously improving my skills by building practical projects and learning modern technologies.
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages
+
+- ☕ Java
+- 🟨 JavaScript
+- 🔷 TypeScript
+- ⚙️ C++
+- 🗄️ SQL
+- 💎 Solidity
+- 🦀 Rust *(Learning)*
+
+---
+
+### 🌐 Frontend
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🅱️ Bootstrap
+- 🎭 Material UI
+- 🌐 HTML5
+- 🎨 CSS3
+
+---
+
+### ⚙️ Backend
+
+- 🟢 Node.js
+- 🚂 Express.js
+- 🔗 REST APIs
+
+---
+
+### 🗄️ Databases
+
+- 🍃 MongoDB
+- 🐬 MySQL
+
+---
+
+### 🛠️ Tools
+
+- 🌿 Git
+- 🐙 GitHub
+- 💻 VS Code
+- 📮 Postman
+- 🐧 Linux
+- ▲ Vercel
+- 📦 npm
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 E-Health Lockbox
+Blockchain-based health record management using Ethereum, Solidity, IPFS, React, and Node.js.
+
+### 🎓 MERN Learning Management System
+A full-stack learning platform built with MongoDB, Express.js, React, and Node.js.
+
+### 🔐 Authentication System
+Secure authentication system with JWT and REST APIs.
+
+---
+
+## 🌱 Currently Learning
+
+- 🌱 Spring Boot
+- 🦀 Rust
+- ⛓️ Blockchain Development
+- 🏗️ System Design
+- ☁️ Cloud Fundamentals
+
+---
+
+## 🎯 Interests
+
+- ☕ Java Development
+- 🧩 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- ⛓️ Blockchain & Web3
+- 📦 Distributed Systems
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrupesh3572&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupesh3572&layout=compact&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rupeshkkumar/
+- 🧩 LeetCode: https://leetcode.com/u/Rupesh-kumar
+- 📧 Email: rupeshkumar86497@gmail.com
+
+---
+
+> **"Code with consistency. Learn with curiosity. Build with purpose."** 🚀
+
+<!--
 🇫‌🇷‌🇴‌🇳‌🇹‌-🇪‌🇳‌🇩‌ 
 🇧‌🇦‌🇨‌🇰‌-🇪‌🇳‌🇩‌ 
 🇩‌🇪‌🇻‌🇴‌🇵‌🇸‌  
@@ -39,3 +165,4 @@
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)](https://www.linux.org)  
 [![Git](https://img.shields.io/badge/-Git-000?&logo=git)](https://git-scm.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)](https://github.com)  
+-->
